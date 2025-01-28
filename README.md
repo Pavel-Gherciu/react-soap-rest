@@ -26,9 +26,11 @@ Now that you are already running the REST service, open another terminal and run
 
 `node server.js`
 
+Now open another terminal and run:
+
 `node proxy.js`
 
-And finally for the frontend:
+And finally for the frontend from yet another terminal:
 
 `cd front`
 
