@@ -13,6 +13,8 @@ First modify the knex.js files in both soap and rest folders with the correct My
 Then run:
 
 `cd filtering-rest
+
 npx knex migrate:latest
+
 npx knex seed:run 
 `
