@@ -28,6 +28,8 @@ Now that you are already running the REST service, open another terminal and run
 
 Now open another terminal and run:
 
+`cd booking-soap`
+
 `node proxy.js`
 
 And finally for the frontend from yet another terminal:
