@@ -9,7 +9,7 @@ Frontend -> Proxy -> SOAP Backend ->  REST Backend
 
 **Guide to run:**
 
-First modify the knex.js files in both soap and rest folders with the correct MySQL database credentials according to your system.
+First modify the knex.js files in both soap and rest folders with the correct MySQL database credentials according to your system. Make sure to create the train_db database.
 Then run:
 
 `cd filtering-rest`
